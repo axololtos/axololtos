@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 about me:  grinder | student | try hard in everything 
 🔭 I’m currently working on Google Cloud, Kubernetes<br>🤝 I’m looking for help with Back-end development<br>🌱 I’m currently learning MERN, Cloud, AWS<br>💬 Ask me about Front-end, Data Science
 
 
