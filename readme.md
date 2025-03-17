@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=axololtos&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-#👾 Leetcode Stats:
+# 👾 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/axololtos?theme=dark&font=Ubuntu%20Mono) 
 
 ### ✍️ Random Dev Quote
